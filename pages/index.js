@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
+    http://propelabu.org/w/index.php?majaleh
         <p className="description">
           part123<code>pages/index.js</code>
         </p>
